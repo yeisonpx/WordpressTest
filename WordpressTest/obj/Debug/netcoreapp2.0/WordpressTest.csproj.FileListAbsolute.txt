@@ -1,0 +1,11 @@
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\bin\Debug\netcoreapp2.0\WordpressTest.deps.json
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\bin\Debug\netcoreapp2.0\WordpressTest.runtimeconfig.json
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\bin\Debug\netcoreapp2.0\WordpressTest.runtimeconfig.dev.json
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\bin\Debug\netcoreapp2.0\WordpressTest.dll
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\obj\Debug\netcoreapp2.0\WordpressTest.csproj.CoreCompileInputs.cache
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\obj\Debug\netcoreapp2.0\WordpressTest.AssemblyInfoInputs.cache
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\obj\Debug\netcoreapp2.0\WordpressTest.AssemblyInfo.cs
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\obj\Debug\netcoreapp2.0\WordpressTest.csprojResolveAssemblyReference.cache
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\bin\Debug\netcoreapp2.0\WordpressTest.pdb
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\obj\Debug\netcoreapp2.0\WordpressTest.dll
+c:\users\yeison angomas\Source\Repos\WordpressTest\WordpressTest\obj\Debug\netcoreapp2.0\WordpressTest.pdb
