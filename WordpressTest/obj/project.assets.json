@@ -781,7 +781,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yeison angomas\\.nuget\\packages\\": {},
+    "C:\\Users\\Yeison angomas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -790,17 +790,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\yeison angomas\\Source\\Repos\\WordpressTest\\WordpressTest\\WordpressTest.csproj",
+      "projectUniqueName": "E:\\Visual Studio 2015\\WordpressTest\\WordpressTest\\WordpressTest\\WordpressTest.csproj",
       "projectName": "WordpressTest",
-      "projectPath": "C:\\Users\\yeison angomas\\Source\\Repos\\WordpressTest\\WordpressTest\\WordpressTest.csproj",
-      "packagesPath": "C:\\Users\\yeison angomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yeison angomas\\Source\\Repos\\WordpressTest\\WordpressTest\\obj\\",
+      "projectPath": "E:\\Visual Studio 2015\\WordpressTest\\WordpressTest\\WordpressTest\\WordpressTest.csproj",
+      "packagesPath": "C:\\Users\\Yeison angomas\\.nuget\\packages\\",
+      "outputPath": "E:\\Visual Studio 2015\\WordpressTest\\WordpressTest\\WordpressTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yeison angomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yeison angomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -824,14 +824,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
-          },
           "WordPressPCL": {
             "target": "Package",
-            "version": "[1.5.0, )"
+            "version": "1.5.0"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
           }
         },
         "imports": [
